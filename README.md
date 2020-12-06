@@ -30,5 +30,5 @@ Things about me:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=johnnync13&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnync13)](https://github.com/johnnync13/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnync13&theme=dracula)](https://github.com/johnnync13/github-readme-stats)
 
