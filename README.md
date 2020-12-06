@@ -28,7 +28,8 @@ Things about me:
 - 📫 How to reach me: on Universitat de Barcelona.
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=johnnync13&show_icons=true&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api?username=johnnync13&show_icons=true&theme=onedark). 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnync13&theme=dracula)](https://github.com/johnnync13/github-readme-stats)
+- My repository languages:  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnync13&theme=dracula).
 
