@@ -28,4 +28,4 @@ Things about me:
 - 📫 How to reach me: on Universitat de Barcelona.
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=johnny&show_icons=true&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api?username=johnnync13&show_icons=true&theme=onedark)
