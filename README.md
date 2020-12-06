@@ -29,3 +29,6 @@ Things about me:
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=johnnync13&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnync13)](https://github.com/johnnync13/github-readme-stats)
+
