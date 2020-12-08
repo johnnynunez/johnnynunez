@@ -20,9 +20,9 @@ I am Johnny Núñez,a Data Science Videogame Development student. You will find 
 
 Things about me:
 - 🧑🏽‍💻 I’m 23 years old.
-- 🤔 I program usually in Python, C++, Javascrip and I use a variety of frameworks.
+- 🤔 I program usually in Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
 - 🔭 I’m currently working on Brodynt and Deep Learning@Computer Vision Researcher at Universitat de Barcelona.
-- 🌱 I’m currently learning Computer Vision, Finance, and Cybersecurity related to Deep Learning
+- 🌱 I’m currently learning Computer Vision, Finance, and Cybersecurity related to Deep Learning.
 - 📲 I’m really interested in technology in general. From hardware to software in any field, but especially in video games!
 - 📐 I’m in my 4th year of university. I am currently doing an Artificial Intelligence Trading Bot.
 - 📫 How to reach me: on Universitat de Barcelona.
