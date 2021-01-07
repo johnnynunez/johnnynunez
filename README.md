@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Johnny Núñez,a Data Science Videogame Development student. You will find here everything, I do everything Open Source🕊.
+I am Johnny Núñez,a Data Science and Videogame Development student. You will find here everything, I publish all my code, Open Source🕊.
 
 Things about me:
 - 🧑🏽‍💻 I’m 23 years old.
