@@ -22,11 +22,11 @@ Things about me:
 - 🧑🏽‍💻 I’m 24 years old.
 - 🤔 I program usually in Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
 - 🔭 I’m currently working on Deep Learning@Computer Vision Researcher at Universitat de Barcelona.
-- 🌱 I’m currently learning Data Science, Computer Vision, Finance, and Cybersecurity related to Deep Learning.
+- 🌱 I’m currently learning Data Science, Computer Vision and BlockChain.
 - 📲 I’m really interested in technology in general. From hardware to software in any field, but especially in video games!
-- 📐 I have a degree in Computer Engineering. I am currently doing an Artificial Intelligence Trading Bot.
-- 📫 How to reach me: on Universitat de Barcelona.
-- 🚀 I’m very interested in quantum computing and blockchain, especially in cryptos.  
+- 📐 I have a degree in Computer Engineering. I am currently doing Data Science and Computer Vision Master's Degree.
+- 📫 How to reach me: on Universitat de Barcelona and Universitat Autonoma de Catalunya.
+- 🚀 I’m very interested in AI, quantum computing and blockchain, especially in cryptos.  
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
 
