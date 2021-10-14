@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Things about me:
 - 🧑🏽‍💻 I’m 24 years old.
 - 🤔 I program usually in Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
-- 🔭 I’m currently working on Deep Learning@Computer Vision Researcher at Computer Vision Center.
+- 🔭 I’m currently working on **Deep Learning@Computer Vision Researcher at Computer Vision Center**.
 - 🌱 I’m currently learning **Data Science, Computer Vision and BlockChain**.
 - 📲 I’m really interested in technology in general. From hardware to software in any field, but especially in video games!
 - 📐 I have a degree in Computer Engineering. I am currently doing Data Science and Computer Vision Master's Degree.
