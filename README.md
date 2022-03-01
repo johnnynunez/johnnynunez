@@ -45,6 +45,6 @@ Things about me:
 
 - 💬 Ask me about **Neural Networks**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=johnnync13&show_icons=true&theme=onedark). 
+![Stats](https://github-readme-stats.vercel.app/api?username=johnnynunez&show_icons=true&theme=onedark). 
 - My repository languages:  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnync13&theme=dracula).
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnynunez&theme=dracula).
