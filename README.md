@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <h3 align="center">Data Science and Computer Vision Development student. You will find here everything, I publish all my code, Open Source🕊.</h3>
 
 Things about me:
-- 🧑🏽‍💻 I’m 24 years old.
-- 🤔 I program usually in Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
+- 🧑🏽‍💻 I’m 25 years old.
+- 🤔 I'm developer using Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
 - 🔭 I’m currently working on **Deep Learning@Computer Vision Researcher at Computer Vision Center**.
 - 🌱 I’m currently learning **Data Science, Computer Vision and BlockChain**.
 - 📲 I’m really interested in technology in general. From hardware to software in any field, but especially in video games!
