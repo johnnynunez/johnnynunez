@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnynunez" alt="johnnynunez" /></a> </p>
 
-- 🧑🏽‍💻 I’m 25 years old.
+- 🧑🏽‍💻 I’m 26 years old.
 - 🤔 I'm developer using Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
 - 🔭 I’m currently working on [HupBa Group](http://www.cvc.uab.es/research-lines/hupba/)
 - 🌱 I’m currently learning **Data Science, Computer Vision and BlockChain**.
