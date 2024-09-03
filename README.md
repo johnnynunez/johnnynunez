@@ -12,7 +12,7 @@
 - 📲 I’m really interested in technology in general. From hardware to software in any field, Human Robot Objects Interactions!
 - 📐 I am currently starting PhD in Generative AI and Robotics.
 - 📫 How to reach me: on Universitat de Barcelona and Computer Vision Center. (**johnnynuca14@gmail.com**)
-- 🚀 Researcher on [Jetson AI Lab Group](https://www.jetson-ai-lab.com/research.html).
+- 🚀 Researcher member on [Jetson AI Lab Group](https://www.jetson-ai-lab.com/research.html).
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
 <h3 align="left">Connect with me:</h3>
