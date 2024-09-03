@@ -7,12 +7,12 @@
 
 - 🧑🏽‍💻 I’m 27 years old.
 - 🤔 I'm developer using Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
-- 🔭 I’m currently working on [HupBa Group](http://www.cvc.uab.es/research-lines/hupba/)
-- 🌱 I’m currently learning **Data Science, Computer Vision and BlockChain**.
-- 📲 I’m really interested in technology in general. From hardware to software in any field, but especially in video games!
-- 📐 I am currently starting PhD in Computer Vision.
-- 📫 How to reach me: on Universitat de Barcelona and Universitat Autonoma de Catalunya. (**johnnynuca14@gmail.com**)
-- 🚀 I’m very interested in AI, quantum computing and blockchain, especially in cryptos.  
+- 🔭 I’m currently working on [HupBa Group]((https://hupba.com/)
+- 🌱 I’m currently learning **Computer Vision, Generative AI and Robotics**.
+- 📲 I’m really interested in technology in general. From hardware to software in any field, Human Robot Objects Interactions!
+- 📐 I am currently starting PhD in Generative AI and Robotics.
+- 📫 How to reach me: on Universitat de Barcelona and Computer Vision Center. (**johnnynuca14@gmail.com**)
+- 🚀 Researcher on [Jetson AI Lab Group](https://www.jetson-ai-lab.com/research.html).
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
 <h3 align="left">Connect with me:</h3>
