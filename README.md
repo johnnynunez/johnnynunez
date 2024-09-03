@@ -7,7 +7,7 @@
 
 - 🧑🏽‍💻 I’m 27 years old.
 - 🤔 I'm developer using Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
-- 🔭 I’m currently working on [HupBa Group](https://hupba.com/)
+- 🔭 I’m currently working on [HupBa Group](https://hupba.com/).
 - 🌱 I’m currently learning **Computer Vision, Generative AI and Robotics**.
 - 📲 I’m really interested in technology in general. From hardware to software in any field, Human Robot Objects Interactions!
 - 📐 I am currently starting PhD in Generative AI and Robotics.
