@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnynunez" alt="johnnynunez" /></a> </p>
 
-- 🧑🏽‍💻 I’m 27 years old.
+- 🧑🏽‍💻 I’m 28 years old.
 - 🤔 I'm developer using Python, C++, Javascript and I use a variety of frameworks oriented to AI, Tensorflow, PyTorch, AWS.
 - 🔭 I’m currently working on [HupBa Group](https://hupba.com/).
 - 🌱 I’m currently learning **Computer Vision, Generative AI and Robotics**.
 - 📲 I’m really interested in technology in general. From hardware to software in any field, Human Robot Objects Interactions!
-- 📐 I am currently starting PhD in Generative AI and Robotics.
-- 📫 How to reach me: on Universitat de Barcelona and Computer Vision Center. (**johnnynuca14@gmail.com**)
+- 📐 I am currently on PhD in Generative AI and Robotics.
+- 📫 How to reach me: on Universitat de Barcelona and Computer Vision Center. (**johnnynunez@ub.edu**)
 - 🚀 Researcher member on [Jetson AI Lab Group](https://www.jetson-ai-lab.com/research.html).
 - 💬 Ask me about all you want. I have several interesting repositories that you can see.
 
